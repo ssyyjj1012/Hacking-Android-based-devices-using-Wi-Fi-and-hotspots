@@ -1,5 +1,5 @@
-# 웹사해
-HTML을 통해 웹사이트 해킹하는 프로젝트
+# 부릉부릉
+차량 공격(DoS, Fuzzy, Free, Malfunction) IVN 데이터셋을 분석하여 취약점 분석 및 시나리오 연구
 
 ## 팀 - 진재경
 |이름|전공|학번|소속 팀|
@@ -9,6 +9,7 @@ HTML을 통해 웹사이트 해킹하는 프로젝트
 |양유진|빅데이터|20207149|Latte|
 
 ## 프로젝트 개발 툴
-- HTML
-- python
-- DB
+- Python
+- Google Colab
+- kali Linux
+- wireshark
