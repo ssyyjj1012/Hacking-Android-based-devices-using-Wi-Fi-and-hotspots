@@ -14,6 +14,10 @@
 - kali Linux
 - wireshark
 
+
+--------------------
+2022년 10월 30일 업데이트
+--------------------
 ## DATASET
 ###  FEATURE
 - TIMESTAMP
