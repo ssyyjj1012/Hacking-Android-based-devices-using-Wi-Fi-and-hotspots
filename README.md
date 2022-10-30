@@ -44,9 +44,9 @@
 ![image](https://user-images.githubusercontent.com/52689953/198869526-38f59959-f2e3-4852-8620-6777ba34cfc6.png)
 
 
-## CAN ID에 대한 Sequence data 추출
+## CAN ID와 TimeInterval에 대한 Sequence data 추출
+- sequence length : 50 으로 설정
+![image](https://user-images.githubusercontent.com/52689953/198869783-664acb13-58fe-4de8-b119-da1cb2be9ba6.png)
 
-
-## TimeInterval 추출
 
 
